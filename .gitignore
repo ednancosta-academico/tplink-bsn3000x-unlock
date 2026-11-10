@@ -1,0 +1,18 @@
+# Backups e arquivos temporários do roteador
+*.bin
+*.xml
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+env/
+
+# Editores e SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
